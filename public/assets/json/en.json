@@ -1,0 +1,349 @@
+{
+  "AUTH": {
+    "CODE_LABEL": "Code (Enter 6-digits sent to your mail)",
+    "CODE_PLACEHOLDER": "Enter 6-digits sent to your mail",
+    "CONTINUE_WITH_FACEBOOK": "Continue with Facebook",
+    "EMAIL": "Email Address",
+    "FIRST_NAME": "first name",
+    "FORGOT_BTN": "Reset Password",
+    "FORGOT_PASSWORD": "Forgot your password?",
+    "FORGOT_SUBTITLE": "You can reset your password here.",
+    "FORGOT_TITLE": "Forgot Password?",
+    "IMAGE": "image",
+    "LAST_NAME": "last name",
+    "LOGIN_BTN": "Login",
+    "LOGIN_TITLE": "Login to your account.",
+    "MESSAGE": "message",
+    "NEW_CUSTOMER": "New Customer?",
+    "NEW_PASSWORD": "New password",
+    "NEW_PASSWORD_CONFIRMATION": "New password confirmation",
+    "OLD_PASSWORD": "old password",
+    "PASSWORD": "Password",
+    "PASSWORD_CONFIRMATION": "Confirm Password",
+    "PHONE": "Mobile",
+    "PRIVACY_POLICY": "privacy policy",
+    "PRIVACY_TEXT": "Your personal data will be used to support your experience throughout this website, to manage access to your account, and for other purposes described in our",
+    "REGISTER_BTN": "Create account",
+    "REGISTER_TITLE": "Create your account.",
+    "RESET_BTN": "Update",
+    "RESET_TITLE": "Update Password",
+    "RETURNING_CUSTOMER": "Returning customer?",
+    "SEND": "Send",
+    "USERNAME": "Username"
+  },
+  "CART": {
+    "ADD_TO_CART": "Add to Truck",
+    "CART_TOTALS": "Truck Totals",
+    "CLEAR": "Clear Truck",
+    "ITEM_SUMMARY": "Item Summary",
+    "PROCEED_TO_CHECKOUT": "Proceed To Checkout",
+    "PURCHASE_LATER": "Purchase later",
+    "REMOVE_FROM_CART": "Remove from truck",
+    "CART": "Truck",
+    "CART_EMPTY_MESSAGE": "Welcome back! If you had items in your truck, we have saved them here for you.",
+    "CART_IS_EMPTY": "Your Truck is Empty",
+    "VIEW_CART": "VIEW TRUCK"
+  },
+  "CHECKOUT": {
+    "ADDRESS_BOOK": "Address Book",
+    "ADD_ADDRESS": "Add address",
+    "EDIT_ADDRESS": "Edit address",
+    "FREE": "Free",
+    "SHIPPING_ADDRESS": "Shipping address"
+  },
+  "COUNT_DOWN": {
+    "DAYS": "Day(s)",
+    "HOURS": "Hours",
+    "MINUTES": "Minutes",
+    "SECONDS": "Seconds"
+  },
+  "HEADER": {
+    "HEADER_LINKS": {
+      "ASK_FOR_CATALOG": "Catalog",
+      "REQUEST_FREE_CONSULTATION": "Request a consultation",
+      "OUR_BRANCHES": "Branches"
+    }
+  },
+  "FOOTER": {
+    "FOOTER_HEAD": {
+      "FURNITURE_OF_EGYPT": "Furniture Of Egypt"
+    },
+    "FOOTER_LINKS": {
+      "ABOUT": "About Us",
+      "BLOGS": "Ideas",
+      "CONTACT": "Contact Us",
+      "CUSTOMER_CARE": "Customer care",
+      "FAQ_TITLE": "FAQs",
+      "HELP_SUPPORT": "Help support",
+      "ORDER_STATUS": "Order Status",
+      "PRIVACY_POLICY": "privacy policy",
+      "RETURN_POLICY": "return policy",
+      "TERMS_CONDITIONS": "terms & conditions"
+    },
+    "RIGHTS": "Egypt Furniture. All rights reserved. developed By"
+  },
+  "GLOBAL": {
+    "ACTIONS": "Actions",
+    "ADDRESS": "Address",
+    "AGREE_TO_POLICY": "I Agree To",
+    "ALL": "All",
+    "AREA": "area",
+    "ARE_YOU_SURE": "Are you sure to do that ?",
+    "BACK_TO_SHOPPING": "Back to shopping",
+    "CITY": "city",
+    "COUNTRY": "country",
+    "DELETE": "Delete",
+    "DISCOUNT": "Discount",
+    "DISTRICT": "district",
+    "EMAIL": "Email",
+    "FILTER": "filter",
+    "FORM_VALIDATION": {
+      "COMPARE_PASSWORD_ERROR": "Password and Confirm Password does not match.",
+      "MIN_LENGTH": "Should have atleast {{minLength}} characters",
+      "REQUIRED": "This field is required",
+      "VALID_EMAIL": "Enter a valid email",
+      "VALID_MOBILE": "Enter a valid format mobile number"
+    },
+    "GRAND_TOTAL": "Grand Total",
+    "HI": "Hi",
+    "INCLUDE_VAT": "incl. VAT",
+    "ITEM": "ITEM",
+    "ITEMS": "ITEMS",
+    "LOGOUT": "Logout",
+    "NAME": "Name",
+    "NO_DATA": "No data found!",
+    "OF": "of",
+    "OR": "OR",
+    "PAGE_TITLE": {
+      "CART": "Truck",
+      "CATEGORIES": "",
+      "CHECKOUT": "Checkout",
+      "CONTACT_US": "Contact us",
+      "DASHBOARD": "Dashboard",
+      "EXCHANGE_RATES": "Exchange rates",
+      "FORGOT_PASSWORD": "Forgot Password",
+      "GENERAL_SETTINGS": "General settings",
+      "HOME": "Home",
+      "INVENTORIES": "",
+      "LOGIN": "Login",
+      "LOOKUPS": "",
+      "PRODUCT_LIST": "",
+      "REGISTER": "Register",
+      "RESET_PASSWORD": "Reset Password",
+      "SETTINGS": "Settings",
+      "SHOP": "Shop",
+      "TAXES_MANAGEMENT": "",
+      "USERS": "",
+      "WISH_LIST": "Wish list"
+    },
+    "PHONE_NUMBER": "Phone number",
+    "POSTAL_CODE": "Postal code",
+    "PRICE": "Price",
+    "PRODUCT": "Product",
+    "PRODUCTS": "Products",
+    "PROFILE": {
+      "UPDATE_PROFILE": "Update Profile"
+    },
+    "QUANTITY": "Quantity",
+    "READMORE": "Read More",
+    "SAVE_CHANGES": "Save changes",
+    "SUBSCRIBE_TO_NEWS_LETTER": "Subscribe To Our Newsletter",
+    "SUBTOTAL": "Subtotal",
+    "SHOW_LESS": "Show less",
+    "SHOW_MORE": "Show more",
+    "TERMS": "Terms & Conditions.",
+    "TOTAL": "Total",
+    "TOTAL_RECORDS": "Showing {{totalRecords}} entries"
+  },
+  "ORDERS": {
+    "CANCEL_ORDER": "Cancel Order",
+    "ORDER_DETAILS": "Order details",
+    "ORDER_NUMBER": "Order NO.",
+    "ORDER_STATUS": "Order Status",
+    "ORDER_SUCCESS": "Thank you for placing an order on Furniture of egypt!",
+    "ORDER_SUMMARY": "Order Summary",
+    "PAYMENT_METHOD": "Payment Method",
+    "PLACED_ON": "Placed On",
+    "PLACE_ORDER": "Place Order",
+    "SHIPPING_AMOUNT": "Shipping amount",
+    "VAT": "Vat"
+  },
+  "PRODUCT": {
+    "DEPTH": "Depth",
+    "HEIGHT": "Height",
+    "PRODUCT_OVERVIEW": "Product overview",
+    "WEIGHT": "Weight",
+    "WEIGHTS_AND_DIMENSIONS": "weights and dimensions",
+    "WIDTH": "Width"
+  },
+  "PRODUCTS": {
+    "ADD_TO_WISHLIST": "Add to wishlist",
+    "CUSTOMER_REVIEWS": "Customer Reviews",
+    "FEATURED": "Featured products",
+    "FILTER": {
+      "CUSTOMIZABLE": "Customizable",
+      "NEW": "New",
+      "PRICE_RANGE": "Price Range",
+      "SEARCH_BY_NAME": "Search by Name",
+      "WITH_DISCOUNT": "With Discount"
+    },
+    "INSTRUCTIONS": "Instructions",
+    "NEW": "New products",
+    "OFFERED": "Hot Offers",
+    "PRODUC_DETAILS": "Product Details",
+    "QUICK_VIEW": "Quick View",
+    "RELATED_PRODUCTS": "you may also like",
+    "REVIEWS": "Reviews",
+    "SHARE": "Share:",
+    "SORT": {
+      "FROM_A_TO_Z": "From A to Z",
+      "FROM_Z_TO_A": "From Z to A",
+      "NEWEST": "Newest",
+      "OLDEST": "Oldest",
+      "PRICE_HIGH_TO_LOW": "Price High to Low",
+      "PRICE_LOW_TO_HIGH": "Price Low to High",
+      "SORT_BY": "Sort By"
+    },
+    "STARS": "stars",
+    "STATUS": {
+      "AVAILABLE": "In stock",
+      "UNAVAILABLE": "Out of stock"
+    },
+    "TRENDING": "Trendy Products",
+    "WARRANTY": "Warranty"
+  },
+  "PROFILE": {
+    "BILLING_AND_PAYMENTS": "Billing and payments",
+    "INFO": "Info",
+    "MY_ADDRESSES": "My addresses",
+    "MY_ORDERS": "My Orders",
+    "MY_REVIEWS": "My reviews",
+    "MY_WISHLIST": "My wishlist",
+    "PASSWORD_AND_SECURITY": "Password and security",
+    "PROFILE": "My profile"
+  },
+  "SETTINGS": {
+    "ATTRIBUTES": {
+      "SELECT_ATTR_NAME": ""
+    },
+    "CATEGORIES": {
+      "CATEGORIES": "",
+      "PARENT_CATEGORY": ""
+    },
+    "EXCHANGE_RATES": {
+      "RATE": "",
+      "SOURCE_CURRENCY": "",
+      "TARGET_CURRENCY": ""
+    },
+    "GENERAL_SETTINGS": {
+      "NUMBER_OF_AWARDS": "",
+      "NUMBER_OF_CLIENTS": "",
+      "NUMBER_OF_PRODUCTS": "",
+      "NUMBER_OF_YEARS_EXPERIENCE": "",
+      "VAT": ""
+    },
+    "LOOKUPS": {
+      "PARENT_LOOKUP": ""
+    },
+    "TAXES_MANAGEMENT": {
+      "TAX_RATES": ""
+    }
+  },
+  "primeng": {
+    "startsWith": "Starts with",
+    "contains": "Contains",
+    "notContains": "Not contains",
+    "endsWith": "Ends with",
+    "equals": "Equals",
+    "notEquals": "Not equals",
+    "noFilter": "No Filter",
+    "lt": "Less than",
+    "lte": "Less than or equal to",
+    "gt": "Greater than",
+    "gte": "Greater than or equal to",
+    "is": "Is",
+    "isNot": "Is not",
+    "before": "Before",
+    "after": "After",
+    "dateIs": "Date is",
+    "dateIsNot": "Date is not",
+    "dateBefore": "Date is before",
+    "dateAfter": "Date is after",
+    "clear": "Clear",
+    "apply": "Apply",
+    "matchAll": "Match All",
+    "matchAny": "Match Any",
+    "addRule": "Add Rule",
+    "removeRule": "Remove Rule",
+    "accept": "Yes",
+    "reject": "No",
+    "choose": "Choose",
+    "upload": "Upload",
+    "cancel": "Cancel",
+    "dayNames": [
+      "Sunday",
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday",
+      "Saturday"
+    ],
+    "dayNamesShort": [
+      "Sun",
+      "Mon",
+      "Tue",
+      "Wed",
+      "Thu",
+      "Fri",
+      "Sat"
+    ],
+    "dayNamesMin": [
+      "Su",
+      "Mo",
+      "Tu",
+      "We",
+      "Th",
+      "Fr",
+      "Sa"
+    ],
+    "monthNames": [
+      "January",
+      "February",
+      "March",
+      "April",
+      "May",
+      "June",
+      "July",
+      "August",
+      "September",
+      "October",
+      "November",
+      "December"
+    ],
+    "monthNamesShort": [
+      "Jan",
+      "Feb",
+      "Mar",
+      "Apr",
+      "May",
+      "Jun",
+      "Jul",
+      "Aug",
+      "Sep",
+      "Oct",
+      "Nov",
+      "Dec"
+    ],
+    "dateFormat": "mm/dd/yy",
+    "firstDayOfWeek": 0,
+    "today": "Today",
+    "weekHeader": "Wk",
+    "weak": "Weak",
+    "medium": "Medium",
+    "strong": "Strong",
+    "passwordPrompt": "Enter a password",
+    "emptyMessage": "No results found",
+    "emptyFilterMessage": "No results found"
+  }
+}
