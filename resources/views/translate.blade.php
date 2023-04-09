@@ -7,9 +7,9 @@
         <title>Translate</title>
     </head>
     <body>
-        <form  id="my-form" class="container" method="POST" action="{{ URL('/translate') }}">
+        <form  method="POST" action="{{ URL('/translate') }}">
             @csrf
-            <div class="row">
+            <div id="my-form" class="container">
 
             </div>
             <button class="btn btn-primary" type="submit"> submit</button>

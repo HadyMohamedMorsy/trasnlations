@@ -13,10 +13,11 @@ class TranslateController extends Controller
 
         $result = '';
         $tr = new GoogleTranslate('ar');
-        // foreach ($request->all() as $name => $value){
-        //     $result .= $value;
-        // }
-       $testing =  $tr->translate($test);
-        return $testing;
+        foreach ($request->all() as $name => $value){
+            $translatedValues += [
+                $name => $tr->translate($value)
+            ];
+        }
+        return $translatedValues;
     }
 }
